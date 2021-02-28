@@ -31,21 +31,31 @@ Google Analytics is the industry standard for web analytics. This powerful tool 
 
 
 
+## Learning objectives
 
+- Setting up an account
 
+- Installing the Google Analytics tracking tag
 
-Setting up an account
-Installing the Google Analytics tracking tag
-Working with essential reports
-Using annotations in analytics reports
-Graphing data over time
-Cleaning up data with inline filters
-Creating and applying persistent segments in reports
-Determining the location, demographics, and interests of your users
-Using acquisition reports to determine where your users are coming from
-Working with behavior reports
-Visualizing funnels with Goal Flow
-Setting up goals
+- Working with essential reports
+
+- Using annotations in analytics reports
+
+- Graphing data over time
+
+- Cleaning up data with inline filters
+
+- Creating and applying persistent segments in reports
+
+- Determining the location, demographics, and interests of your users
+
+- Using acquisition reports to determine where your users are coming from
+
+- Working with behavior reports
+
+- Visualizing funnels with Goal Flow
+
+- Setting up goals
 
 
 
@@ -64,7 +74,7 @@ Setting up goals
 
 .
 
-
+> ![cetif.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1614474390/cetif.png)
 
 
 .
