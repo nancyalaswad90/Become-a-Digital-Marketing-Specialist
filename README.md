@@ -146,7 +146,12 @@ Explore the basics of SEO, including how to read a results page and see how rank
 ##  Course :  [Google Ads Essential Training](https://www.linkedin.com/learning/google-ads-essential-training/continue-working-with-google-ads?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
 
 
+
+
 ## Course details
+
+
+Learn the foundations of pay-per-click (PPC) advertising with Google Ads (formerly known as AdWords) the industry-leading PPC platform. First, explore how Google Ads works and how it fits with what your business—and your customers—need. Then learn how to set up a new Google Ads account and start researching your keywords: the foundation of all great advertisements. After he demonstrates how to set up a new campaign and write your first ad, instructor Brad Batesole shows how to use Google Ads reporting and Google Analytics to monitor your campaign's performance. Brad also shows how to optimize ads to get more clicks, conversions, and ultimately more return on your investment (ROI). Plus, go beyond the basics with ad extensions—a feature which can increase your click-through rate by several percentage points.
 
 
 
