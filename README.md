@@ -135,7 +135,7 @@ Explore the basics of SEO, including how to read a results page and see how rank
 .
 
 
->
+> ![sooooo cert.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1614619321/sooooo_cert.png)
 
 
 .
@@ -158,6 +158,15 @@ Explore the basics of SEO, including how to read a results page and see how rank
 
 
 
+
+
+.
+
+> ![شهادة.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1614619292/%D8%B4%D9%87%D8%A7%D8%AF%D8%A9.png)
+
+
+
+.
 
 
 
