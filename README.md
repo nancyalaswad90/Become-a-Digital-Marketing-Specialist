@@ -155,14 +155,18 @@ Learn the foundations of pay-per-click (PPC) advertising with Google Ads (former
 
 
 
-## Learning objectives
+
 
 
 ##  Skills covered
 
 
 
+- Online Advertising
 
+- Pay Per Click (PPC)
+
+- Google Ads
 
 
 .
