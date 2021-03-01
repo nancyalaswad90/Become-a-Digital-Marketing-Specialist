@@ -89,9 +89,62 @@ Google Analytics is the industry standard for web analytics. This powerful tool 
 ## Course :[SEO Foundations](https://www.linkedin.com/learning/seo-foundations/leveraging-the-power-of-search-to-accomplish-your-business-goals?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
 
 
+
+## Course details
+
+Modern consumers navigate the world through search. From laptops, smartphones, virtual assistants, tablets, and more, they search the wild and wondrous internet for the products and services they need. By leveraging the fundamentals of search engine optimization (SEO), you can ensure that your business pops up in these all-important search results. This course is about mastering those fundamentals. Join instructor David Booth as he covers how to make improvements that boost your website's visibility on search engines, attracting the right kind of traffic to the right pages on your site.
+
+Explore the basics of SEO, including how to read a results page and see how rankings affect businesses large and small. Discover how to implement foundational optimization strategies and techniques, including how to conduct keyword research, build internal and external links, optimize your pages and content, measure your successes and progress, and plan for a long-term SEO strategy. Additionally, learn specific SEO tips for ecommerce, local search, and mobile audiences to expand your reach.
+
+
+
+## Learning objectives
+
+- Define search engine optimization.
+
+- Explore the fundamentals of reading search engine results pages.
+
+- Examine the essentials of understanding keyword attributes.
+
+- Break down the steps for optimizing the non-text components of a webpage.
+
+- Recognize how search engines index context.
+
+- Explore an overview of long-term content planning strategies and how they can help keep content on your site fresh.
+
+- Define your website’s audience, topics, angle, and style when mapping out your long-term content.
+
+- Identify the steps to take when building internal links within your website.
+
+- Recognize how to analyze links in order to measure SEO effectiveness.
+
+- Break down the necessary components for understanding local SEO.
+
+
+
+##  Skills covered
+
+- Search Engine Optimization (SEO)
+
+- Web Content Optimization
+
+- Google Analytics
+
+
+
+.
+
+
+>
+
+
+.
+
 -----------------
 
 
 ##  Course :  [Google Ads Essential Training](https://www.linkedin.com/learning/google-ads-essential-training/continue-working-with-google-ads?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
+
+
 
 
