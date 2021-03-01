@@ -146,5 +146,31 @@ Explore the basics of SEO, including how to read a results page and see how rank
 ##  Course :  [Google Ads Essential Training](https://www.linkedin.com/learning/google-ads-essential-training/continue-working-with-google-ads?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
 
 
+## Course details
 
 
+
+## Learning objectives
+
+
+##  Skills covered
+
+
+
+
+
+
+
+------------------
+
+
+## Course :
+
+## Course details
+
+
+
+## Learning objectives
+
+
+##  Skills covered
