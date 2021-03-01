@@ -19,7 +19,11 @@ Use your analytical and tactical skills to help grow and develop new opportuniti
 .
 
 
-## [Google Analytics Essential Training](https://www.linkedin.com/learning/google-analytics-essential-training-5/set-up-goals)
+
+-------------------------------
+
+
+## First Course : [Google Analytics Essential Training](https://www.linkedin.com/learning/google-analytics-essential-training-5/set-up-goals)
 
 
 
@@ -85,6 +89,6 @@ Google Analytics is the industry standard for web analytics. This powerful tool 
 
 
 
-[Google Ads Essential Training](https://www.linkedin.com/learning/google-ads-essential-training/continue-working-with-google-ads?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
+##  Course :  [Google Ads Essential Training](https://www.linkedin.com/learning/google-ads-essential-training/continue-working-with-google-ads?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
 
 
