@@ -202,3 +202,8 @@ Learn the foundations of pay-per-click (PPC) advertising with Google Ads (former
 
 
 .
+
+
+
+
+![certi 2222.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1614721557/certi_2222.png)
