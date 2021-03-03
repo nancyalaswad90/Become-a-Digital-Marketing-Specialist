@@ -32,7 +32,15 @@ Use your analytical and tactical skills to help grow and develop new opportuniti
 
 ## Course details
 
+Digital marketing tools and techniques are constantly evolving. In this course, instructor Brad Batesole helps you keep up with this fast-moving field, covering what you need to know to help your business cut through the noise, engage potential customers, and adapt with the times. Brad begins by discussing the building blocks of online marketing, including how it's used, where it's been, and where it's headed. He then steps through how to define your value proposition, identify your target market, and establish your goals and KPIs. Next, he covers how customers evaluate the entirety of a brand's online presence, as well as how to decide on a marketing channel, optimize your website, and leverage SEO, paid advertising, and social media to help your target audience find you. Plus, learn how to develop an email marketing plan, get started with video marketing, and create easy-to-understand marketing reports that help you assess your progress.
 
+
+
+
+
+## Skills covered
+
+-Online MarketingDigital MarketingMarketing Strategy
 
 
 
