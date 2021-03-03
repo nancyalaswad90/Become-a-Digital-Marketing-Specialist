@@ -60,7 +60,7 @@ Digital marketing tools and techniques are constantly evolving. In this course, 
 
 
 
-##  Course :[Google Analytics Essential Training](https://www.linkedin.com/learning/google-analytics-essential-training-5/set-up-goals)
+##  Second Course :[Google Analytics Essential Training](https://www.linkedin.com/learning/google-analytics-essential-training-5/set-up-goals)
 
 
 
