@@ -215,3 +215,6 @@ Learn the foundations of pay-per-click (PPC) advertising with Google Ads (former
 
 
 .
+
+
+[Social Media Marketing Foundations](https://www.linkedin.com/learning/social-media-marketing-foundations-2020/staying-updated-on-social-media-marketing?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
