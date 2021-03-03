@@ -23,7 +23,27 @@ Use your analytical and tactical skills to help grow and develop new opportuniti
 -------------------------------
 
 
-## First Course : [Google Analytics Essential Training](https://www.linkedin.com/learning/google-analytics-essential-training-5/set-up-goals)
+## First Course : [Digital Marketing Foundations](https://www.linkedin.com/learning/digital-marketing-foundations/connecting-with-customers-online?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
+
+
+
+
+
+
+## Course details
+
+
+
+
+
+
+
+-------------------------------------
+
+
+
+
+##  Course :[Google Analytics Essential Training](https://www.linkedin.com/learning/google-analytics-essential-training-5/set-up-goals)
 
 
 
