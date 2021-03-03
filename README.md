@@ -52,6 +52,8 @@ Digital marketing tools and techniques are constantly evolving. In this course, 
 .
 
 
+> ![Digital Marketing Foundations](https://user-images.githubusercontent.com/36210723/109850651-66976c80-7c5b-11eb-9d81-610923f39332.png)
+
 .
 
 
