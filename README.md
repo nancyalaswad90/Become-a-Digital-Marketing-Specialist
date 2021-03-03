@@ -40,10 +40,19 @@ Digital marketing tools and techniques are constantly evolving. In this course, 
 
 ## Skills covered
 
--Online MarketingDigital MarketingMarketing Strategy
+- Online Marketing
+
+- Digital Marketing
+
+- Marketing Strategy
 
 
 
+
+.
+
+
+.
 
 
 -------------------------------------
