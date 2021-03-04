@@ -223,7 +223,7 @@ Learn the foundations of pay-per-click (PPC) advertising with Google Ads (former
 ------------------
 
 
-## Course :
+## Fifth Course  : [Content Marketing Foundations](https://www.linkedin.com/learning/content-marketing-foundations-3/what-is-content-marketing?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
 
 ## Course details
 
