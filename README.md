@@ -273,4 +273,59 @@ Learn the foundations of pay-per-click (PPC) advertising with Google Ads (former
 -----------------
 
 
-![Marketing on Facebook.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1614862529/Marketing_on_Facebook.png)
+
+## Course : [Marketing on Facebook](https://www.linkedin.com/learning/marketing-on-facebook/continue-growing-your-business-on-facebook?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
+
+
+
+
+## Course details
+
+When your business is on Facebook, your reach is exponential. You can find new prospects and market directly to customers. This course helps you set up a Facebook account exclusively for business use and build out your page in a way that clearly identifies your brand. Instructor Megan Adams shows you how to create a page, build your audience, and create and share interesting and meaningful content. She also shows how to use advanced features, including events, stories, and Facebook Live. Plus, see how to promote your business and engage with your followers by leveraging Facebooks offers. The course wraps with tips for continuing to grow your business on Facebook, including using Facebook Insights to track the effectiveness of your page.
+
+
+.
+
+
+## Learning objectives
+
+
+- Benefits of Facebook pages
+
+- Creating a Facebook page
+
+- Choosing a username
+
+- Adding a call-to-action button
+
+- Posting updates
+
+- Inviting friends to like your page
+
+- Creating Facebook events
+
+- Streaming with Facebook Live
+
+- Viewing Facebook Insights reports
+
+
+
+.
+
+##  Skills covered
+
+- Facebook Marketing
+
+- Social Media Marketing
+
+
+
+.
+
+
+> ![Marketing on Facebook.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1614862529/Marketing_on_Facebook.png)
+
+
+.
+
+---------------------
