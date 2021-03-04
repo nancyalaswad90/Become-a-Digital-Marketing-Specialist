@@ -278,20 +278,11 @@ A well-crafted content marketing strategy can greatly increase visibility of you
 .
 
 
-.
+---------------------------
 
 
 
-
-
-![certi 2222.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1614721557/certi_2222.png)
-
-
-
-.
-
-
-[Social Media Marketing Foundations](https://www.linkedin.com/learning/social-media-marketing-foundations-2020/staying-updated-on-social-media-marketing?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
+## Sixth Course :  [Social Media Marketing Foundations](https://www.linkedin.com/learning/social-media-marketing-foundations-2020/staying-updated-on-social-media-marketing?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
 
 
 .
