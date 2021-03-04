@@ -225,15 +225,48 @@ Learn the foundations of pay-per-click (PPC) advertising with Google Ads (former
 
 ## Fifth Course  : [Content Marketing Foundations](https://www.linkedin.com/learning/content-marketing-foundations-3/what-is-content-marketing?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
 
+
+
+
 ## Course details
+
+
+A well-crafted content marketing strategy can greatly increase visibility of your brand, help build credibility, and create an enduring relationship with your audience. Expert marketing consultant Brian Honigman explains content marketing concepts and benefits, then explores a step-by-step approach for organizations of all sizes to succeed with this strategic marketing approach. Brian covers how to create a content plan, choose content types, and develop an editorial calendar. He then explores how to write, edit, and design content, as well as how to choose the right mix of content and curate it for maximum impact.
+
 
 
 
 ## Learning objectives
 
 
+- What is content marketing?
+
+- Creating a content strategy
+
+- Selecting the right type of content
+
+- Producing content
+
+- Tips for successful storytelling
+
+- Promoting with owned and shared media
+
+- Promoting with earned and paid media
+
+- Innovating with content
+
+- Conveying thought leadership with content
+
+
+
 ##  Skills covered
 
+
+- Content Planning
+
+- Content Marketing
+
+- Marketing Strategy
 
 
 .
