@@ -285,6 +285,42 @@ A well-crafted content marketing strategy can greatly increase visibility of you
 ## Sixth Course :  [Social Media Marketing Foundations](https://www.linkedin.com/learning/social-media-marketing-foundations-2020/staying-updated-on-social-media-marketing?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
 
 
+
+## Course details
+
+Social media dramatically altered marketing by allowing businesses to directly engage with customers and vice versa. Brands that stand the test of time will use these platforms to create fresh connections and build long-term loyalty. In this course, you can learn the basics of social media marketing. Instructor Brian Honigman—a top marketing consultant—explains why making an investment in social media can benefit your business. He shows how to define your audience and craft a social media strategy focused on your organization's goals. He also teaches you how to communicate effectively on leading social networks such as Facebook, Instagram, and Snapchat; drive results with paid ads; and measure your success.
+
+
+## Learning objectives
+
+- Developing a social media strategy
+
+- Defining your audience
+
+- Choosing the right channels
+
+- Publishing best practices
+
+- Building and maintaining a community
+
+- Selling on social media
+
+- Measuring activity
+
+- Innovating with social media marketing
+
+
+
+## Skills covered
+
+
+- Social Media Marketing
+
+- Marketing Strategy
+
+
+
+
 .
 
 >  ![cert33333.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1614787021/cert33333.png)
