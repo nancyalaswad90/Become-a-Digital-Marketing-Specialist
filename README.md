@@ -386,7 +386,7 @@ When your business is on Facebook, your reach is exponential. You can find new p
 .
 
 
-> ![Marketing on Facebook.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1614862529/Marketing_on_Facebook.png)
+> ![face book.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1615152201/face_book.png)
 
 
 .
