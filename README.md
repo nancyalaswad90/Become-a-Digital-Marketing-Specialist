@@ -337,7 +337,7 @@ Social media dramatically altered marketing by allowing businesses to directly e
 
 
 
-## Course : [Marketing on Facebook](https://www.linkedin.com/learning/marketing-on-facebook/continue-growing-your-business-on-facebook?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
+## Seventh Course : [Marketing on Facebook](https://www.linkedin.com/learning/marketing-on-facebook/continue-growing-your-business-on-facebook?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
 
 
 
