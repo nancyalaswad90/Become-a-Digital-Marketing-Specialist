@@ -18,7 +18,10 @@ Use your analytical and tactical skills to help grow and develop new opportuniti
 
 .
 
+> ![Digital Marketing Specialist.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1615151317/Digital_Marketing_Specialist.png)
 
+
+.
 
 -------------------------------
 
