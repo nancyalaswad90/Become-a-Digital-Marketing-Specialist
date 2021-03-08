@@ -580,6 +580,7 @@ Graphic design is a complex art. To become a graphic designer, you need to maste
 
 .
 
+> ![desighn](https://user-images.githubusercontent.com/36210723/110368391-a55d6600-8051-11eb-94f4-58cba9a7883d.png)
 
 
 .
