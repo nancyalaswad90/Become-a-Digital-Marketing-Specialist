@@ -429,9 +429,47 @@ Interested in marketing your product or service on Instagram? Join Anson Alexand
 ## Ninth Course : [Social Media Marketing: Strategy and Optimization](https://www.linkedin.com/learning/social-media-marketing-strategy-and-optimization/make-social-media-more-effective-for-your-business?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
 
 
-![certifi Social Media Marketing](https://user-images.githubusercontent.com/36210723/110116257-ea6a6980-7dbf-11eb-902e-c448831145ac.png)
+
+## Course details
 
 
+Learn a three-step recipe for optimizing your social media marketing mix. Get a fresh perspective on your content, your choice of platform, and your strategy. Join digital communication strategist Martin Waxman for this illuminating short course that will get even the most experienced marketers out of a social media rut. Learn how to analyze what's working—and what's not—with SWOT analysis, and adapt your plan to capitalize on your strengths. Then Martin reviews the latest developments on Facebook, Instagram, Twitter, LinkedIn, YouTube, Pinterest, Snapchat, and TikTok, so you understand how to position your brand correctly on each platform. Plus, learn how to turn strategy into action and create paid and organic content and stories that connect.
+
+
+
+## Learning objectives
+
+- Establishing your social media strategy
+
+- Conducting a social media audit
+
+- Analyzing your SWOT results
+
+- Unique drivers for Facebook, Instagram, LinkedIn, and more
+
+- Refining your content mix
+
+- Optimizing paid, earned, shared and owned media
+
+
+
+## Skills covered
+
+
+- Digital Marketing
+
+- Social Media Marketing
+
+
+
+
+.
+
+> ![certifi Social Media Marketing](https://user-images.githubusercontent.com/36210723/110116257-ea6a6980-7dbf-11eb-902e-c448831145ac.png)
+
+.
+
+--------------------------------------
 
 
 
@@ -440,3 +478,12 @@ Interested in marketing your product or service on Instagram? Join Anson Alexand
 
 ## Tenth Course :
 
+
+
+## Course details
+
+
+## Learning objectives
+
+
+## Skills covered
