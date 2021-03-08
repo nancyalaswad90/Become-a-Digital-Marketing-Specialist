@@ -476,7 +476,56 @@ Learn a three-step recipe for optimizing your social media marketing mix. Get a 
 
 
 
-## Tenth Course :
+## Tenth Course : [Email and Newsletter Marketing Foundations](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
+
+
+
+
+
+## Course details
+
+
+Many digital marketers consider email marketing to be an essential component of their company's marketing mix. To get your desired return on investment—and to ensure your company maintains a positive reputation—you have to do it right. In this course you can learn how to craft an email marketing campaign that works. Professional marketer and marketing trainer Megan Adams offers tips on building your email lists, choosing themes, creating effective messaging, building newsletters, and analyzing and optimizing your campaigns. The course features MailChimp, but the strategies apply to any email marketing service provider. By the end, you'll have a new tool to drive traffic to your website, engage new audiences, and grow your business.
+
+
+
+
+## Learning objectives
+
+
+- Recognize the purpose of email marketing.
+
+- Recall the goal of a segmentation strategy.
+
+- Determine the appropriate strategy for testing emails on mobile and desktop devices.
+
+- Identify two metrics that can be used to understand which types of emails people interact with.
+
+
+
+## Skills covered
+
+
+- Email Marketing
+
+- Mobile Marketing
+
+- Small Business Marketing
+
+
+
+.
+
+
+
+.
+
+--------------------------
+
+
+
+
+## Tenth Course : 
 
 
 
