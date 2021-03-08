@@ -516,7 +516,7 @@ Many digital marketers consider email marketing to be an essential component of 
 
 .
 
-
+>  ![email](https://user-images.githubusercontent.com/36210723/110367961-0c2e4f80-8051-11eb-8291-175957f8e1ee.png)
 
 .
 
