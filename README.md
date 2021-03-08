@@ -525,14 +525,61 @@ Many digital marketers consider email marketing to be an essential component of 
 
 
 
-## Tenth Course : 
+## Eleventh Course : [Introduction to Graphic Design](https://www.linkedin.com/learning/introduction-to-graphic-design-3/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
+
 
 
 
 ## Course details
 
 
+
+Graphic design is a complex art. To become a graphic designer, you need to master many different skills and tools. This course covers the concepts and software that every designer needs to know and explains how they fit into a typical graphic design workflow. Instructor Tony Harmer introduces the creative process, including high-level concepts like layout, typography, and color. Then it's your chance to get hands-on, using Photoshop to creatively adjust, repair, and retouch the kinds of images used in graphic design projects. Tony then shows how to use Illustrator to build a custom logo and introduces important vector-drawing techniques. Last, he visits InDesign for an overview of the document layout and print preparation processes. By the end of the course, you'll have a better grasp of what graphic designers do and what you'll need to learn next. It's a great jumping off point for any graphic design career.
+
+
+
+
 ## Learning objectives
 
 
+
+- The creative process
+
+- Layout and composition
+
+- Grids
+
+- Typography
+
+- Color
+
+- Transforming images and assets in Photoshop
+
+- Drawing logos in Illustrator
+
+- Designing graphics and documents in InDesign
+
+
+
+
 ## Skills covered
+
+- Graphic 
+
+- Design
+
+- Adobe Illustrator
+
+- Adobe Photoshop
+
+- Adobe InDesign
+
+- Design Theory
+
+
+
+.
+
+
+
+.
