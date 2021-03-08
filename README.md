@@ -394,6 +394,10 @@ When your business is on Facebook, your reach is exponential. You can find new p
 ---------------------
 
 
+
+
+## Eighth Course : [Marketing on Instagram](https://www.linkedin.com/learning/marketing-on-instagram-2/marketing-your-business-on-instagram?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
+
 ## Course detail 
 
 
