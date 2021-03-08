@@ -426,7 +426,7 @@ Interested in marketing your product or service on Instagram? Join Anson Alexand
 ------------------------------
 
 
-## Ninth Course :
+## Ninth Course : [Social Media Marketing: Strategy and Optimization](https://www.linkedin.com/learning/social-media-marketing-strategy-and-optimization/make-social-media-more-effective-for-your-business?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
 
 
 ![certifi Social Media Marketing](https://user-images.githubusercontent.com/36210723/110116257-ea6a6980-7dbf-11eb-902e-c448831145ac.png)
