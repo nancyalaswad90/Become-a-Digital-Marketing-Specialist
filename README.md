@@ -398,10 +398,34 @@ When your business is on Facebook, your reach is exponential. You can find new p
 
 ## Eighth Course : [Marketing on Instagram](https://www.linkedin.com/learning/marketing-on-instagram-2/marketing-your-business-on-instagram?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a3f83dd559b764b88a8f)
 
+
+
+
 ## Course detail 
 
 
-![شهادة الانستغرام](https://user-images.githubusercontent.com/36210723/110116253-e9393c80-7dbf-11eb-85c8-eb3fdcc19d86.png)
+Interested in marketing your product or service on Instagram? Join Anson Alexander as he acquaints you with key features and digital marketing strategies that can help you boost your sales and online presence using the popular social platform. Anson demonstrates how to use built-in Instagram tools for businesses, brainstorm content ideas, and develop a posting schedule based on the activity of your target market. He shares tips for creating engaging Instagram stories and reels, using hashtags and location tagging to aid discovery, and leveraging Instagram Insights to review statistics and metrics regarding your posts. Plus, he provides insider tips that can help you navigate the Instagram community like a pro, including how to deal with pesky bot accounts.
+
+
+
+##  Skills covered
+
+
+- Instagram Analytics
+
+- Instagram Marketing
+
+.
+
+ 
+> ![شهادة الانستغرام](https://user-images.githubusercontent.com/36210723/110116253-e9393c80-7dbf-11eb-85c8-eb3fdcc19d86.png)
+
+.
+
+
+------------------------------
+
+
 
 
 
